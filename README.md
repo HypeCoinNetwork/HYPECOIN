@@ -1,0 +1,2 @@
+# HYPECOIN
+Main coin repository
